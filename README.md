@@ -28,6 +28,8 @@
 <br />
 </a>
 
+![snake gif](https://github.com/mercethem/mercethem/blob/output/github-contribution-grid-snake.gif)
+
 <br />
 
 [linkedin]: https://www.linkedin.com/in/mercethem/
