@@ -8,7 +8,6 @@
 - 🌎 2023 Goals : Learning about algorithms and developing programs artificial intelligence 🆓🤖
 - ⚡ Fact: I love to learn 🚀
 
-
 <br />
 
 ### 📩 Connect with me:
@@ -19,28 +18,12 @@
 
 <br />
 
-<br />
-
-## 📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
 ### GitHub Analytics 📊
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mercethem&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
 <br />
-<br />
-
-
 
 [linkedin]: https://www.linkedin.com/in/mercethem/
 [gmail]: mailto:mercethem@gmail.com
