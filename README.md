@@ -16,11 +16,6 @@
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackoverflow]
 
 <br />
-
-### GitHub Analytics 📊
-
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mercethem&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-
 </a>
 
 <br />
