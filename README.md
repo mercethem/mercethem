@@ -45,7 +45,7 @@
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mercethem0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
 <br />
@@ -57,4 +57,3 @@
 [gmail]: mailto:mercethem@gmail.com
 [git]: https://git-scm.com/
 [github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
