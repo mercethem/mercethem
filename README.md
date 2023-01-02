@@ -1,12 +1,13 @@
-### Hi there ⚡ ![](https://komarev.com/ghpvc/?username=your-github-mercethem&style=plastic)
+<h1 align="center">  👋 Hi, I'm Ethem MERÇ </h1>
+<h4 align="center" > I'm a Student at Software Engineering 👨‍🎓 </h2>
 
+![](https://komarev.com/ghpvc/?username=your-github-mercethem&style=plastic)
 
-## I'm a Student at Software Engineering 👨‍🎓
 ## ⏲ What am i doing now:
 - 🔭 I’m currently learning Algorithms, Git, Java and C# 👩‍💻
 - 🌎 2023 Goals : Learning to algorithms, improve problem solving ability, 
   developing programs and start learning about artificial intelligence 🆓🤖
-- 👋 Fact: I love to search and learn new informations 🚀
+- 👋 Fact: I love to search and learn new informations 🚀</h3>
 </p>
 
 ### 📩 Connect with me:
