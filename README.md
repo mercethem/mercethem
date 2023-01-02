@@ -28,7 +28,8 @@
 <br />
 </a>
 
-![snake gif](https://github.com/mercethem/mercethem/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/mercethem/mercethem/blob/output/github-contribution-grid-snake.svg)
 
 <br />
 
