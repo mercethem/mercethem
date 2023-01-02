@@ -1,8 +1,6 @@
 <h1 align="center">  👋 Hi, I'm Ethem MERÇ </h1>
 <h4 align="center" > I'm a Student at Software Engineering 👨‍🎓 </h2>
 
-![](https://komarev.com/ghpvc/?username=your-github-mercethem&style=plastic)
-
 ## ⏲ What am i doing now:
 - 🔭 I’m currently learning Algorithms, Git, Java and C# 👩‍💻
 - 🌎 2023 Goals : Learning to algorithms, improve problem solving ability, 
@@ -10,6 +8,7 @@
 - 👋 Fact: I love to search and learn new informations 🚀</h3>
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-mercethem&style=plastic)
 ### 📩 Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
@@ -18,12 +17,9 @@
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercethem&show_icons=true&theme=transparent)
-
 <br />
 </a>
-
 ![snake gif](https://github.com/mercethem/mercethem/blob/output/github-contribution-grid-snake.svg)
-
 <br />
 
 [linkedin]: https://www.linkedin.com/in/mercethem/
@@ -31,4 +27,4 @@
 [stackoverflow]: https://stackoverflow.com/users/20124061/ethem-merc/
 [gmail]: mailto:mercethem@gmail.com
 [git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/mercethem
