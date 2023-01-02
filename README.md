@@ -1,13 +1,12 @@
-### Hi there 👋👩‍💻
+### Hi there ⚡
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="500" height="320" />
 
-## I'm a Student 👨‍🎓
+## I'm a Student at Software Engineering 👨‍🎓
 ## ⏲ What am i doing now:
-- 🔭 I’m currently learning Algorithms, Git, Java and C#.
-- 🌎 2023 Goals : Learning about algorithms and developing programs artificial intelligence 🆓🤖
-- ⚡ Fact: I love to learn 🚀
-<br />
+- 🔭 I’m currently learning Algorithms, Git, Java and C# 👩‍💻
+- 🌎 2023 Goals : Learning to algorithms, improve problem solving ability, developing programs and start learning about artificial intelligence 🆓🤖
+- 👋 Fact: I love to search and learn new informations 🚀
 
 ### 📩 Connect with me:
 
