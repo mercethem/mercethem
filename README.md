@@ -1,4 +1,4 @@
-### Hi there ⚡
+### Hi there ⚡ ![](https://komarev.com/ghpvc/?username=your-github-mercethem&style=plastic)
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="500" height="320" />
 
