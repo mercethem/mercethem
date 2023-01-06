@@ -20,7 +20,7 @@
 <br />
 </a>
 
-![snake gif](https://github.com/mercethem/mercethem/blob/output/github-contribution-grid-snake.gif)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <br />
 
