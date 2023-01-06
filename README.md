@@ -19,7 +19,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercethem&show_icons=true&theme=transparent)
 <br />
 </a>
-![snake gif](https://github.com/mercethem/mercethem/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mercethem/mercethem/blob/output/github-contribution-grid-snake.gif)
 <br />
 
 [linkedin]: https://www.linkedin.com/in/mercethem/
