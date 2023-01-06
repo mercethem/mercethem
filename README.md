@@ -15,9 +15,6 @@
 [<img align="left" height="24" width="24" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" />][hackerrank]
 [<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][stackoverflow]
 <br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercethem&show_icons=true&theme=transparent)
-<br />
 </a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
