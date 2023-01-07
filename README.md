@@ -21,7 +21,6 @@
 
 <br />
 
-
 [linkedin]: https://www.linkedin.com/in/mercethem/
 [hackerrank]: https://www.hackerrank.com/mercethem/
 [stackoverflow]: https://stackoverflow.com/users/20124061/ethem-merc/
