@@ -2,7 +2,7 @@
 <h4 align="center" > I'm a Student at Software Engineering and i have started codding 20 Oct 2022👨‍🎓 </h2>
 
 ## ⏲ What am i doing now:
-- 🔭 I’m currently learning Algorithms, Git and Java 👩‍💻
+- 🔭 I’m currently learning Algorithms, Git, Java and C 👩‍💻
 - 🌎 2023 Goals : Learning to algorithms, improve problem solving ability, 
   developing programs and start learning about artificial intelligence 🆓🤖
 - 👋 Fact: I love to search and learn new informations 🚀</h3>
