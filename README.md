@@ -2,9 +2,9 @@
 <h4 align="center" > I'm a Student at Software Engineering and i have started codding in November 2022👨‍🎓 </h2>
 
 ## ⏲ What am i doing now:
-- 🔭 I’m currently learning Algorithms, Java, SQL and C 👩‍💻
+- 🔭 I’m currently learning Algorithms, Java, C, SQL, Linux and git 👩‍💻
 - 🌎 2023 Goals : Learning to algorithms, improve problem solving ability, 
-  developing programs 🆓🤖
+  developing and using programs 🆓🤖
 - 👋 Fact: I love to search and learn new informations 🚀</h3>
 </p>
 
@@ -20,12 +20,13 @@
 ### 💻 Languages and Tools:
 
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" />][java]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />][C]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" />][clion]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
 <br />
 </a>
 
@@ -46,3 +47,4 @@
 [mssql]: https://www.microsoft.com/tr-tr/sql-server/sql-server-2019
 [intellij]: https://www.jetbrains.com/idea/
 [figma]: https://www.figma.com/
+[linux]: https://www.linux.org/
