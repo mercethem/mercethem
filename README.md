@@ -26,7 +26,6 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" />][clion]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />][figma]
 <br />
 </a>
 
@@ -46,5 +45,4 @@
 [git]: https://git-scm.com/
 [mssql]: https://www.microsoft.com/tr-tr/sql-server/sql-server-2019
 [intellij]: https://www.jetbrains.com/idea/
-[figma]: https://www.figma.com/
 [linux]: https://www.linux.org/
