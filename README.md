@@ -22,6 +22,7 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" />][java]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />][C]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />][mysql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
@@ -44,5 +45,6 @@
 [java]: https://www.java.com/en/
 [git]: https://git-scm.com/
 [mssql]: https://www.microsoft.com/tr-tr/sql-server/sql-server-2019
+[mssql]: https://www.mysql.com/
 [intellij]: https://www.jetbrains.com/idea/
 [linux]: https://www.linux.org/
