@@ -45,6 +45,6 @@
 [java]: https://www.java.com/en/
 [git]: https://git-scm.com/
 [mssql]: https://www.microsoft.com/tr-tr/sql-server/sql-server-2019
-[mssql]: https://www.mysql.com/
+[mysql]: https://www.mysql.com/
 [intellij]: https://www.jetbrains.com/idea/
 [linux]: https://www.linux.org/
