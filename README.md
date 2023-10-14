@@ -27,6 +27,7 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" />][clion]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vstudio]
 <br />
 </a>
 
@@ -48,3 +49,4 @@
 [mysql]: https://www.mysql.com/
 [intellij]: https://www.jetbrains.com/idea/
 [linux]: https://www.linux.org/
+[vstudio]: https://visualstudio.microsoft.com/
