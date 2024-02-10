@@ -17,7 +17,7 @@
 <br />
 </a>
 
-### 💻 Languages and Tools:
+### 💻 Languages and Tools (Learning and Using): 
 
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" />][java]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />][C]
