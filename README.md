@@ -3,7 +3,7 @@
 
 ## ⏲ What am i doing now:
 - 🔭 I’m currently learning Algorithms, Data Structures, Communications Protocols, C, C++, Linux, Git, Clean Code 👩‍💻
-- 🌎 2024 Goals : Learning to algorithms, developing C/C++, const correctness, improve problem solving ability, 
+- 🌎 2024 Goals : Learning to algorithms, developing C++, const correctness, improve problem solving ability, 
   developing and using tools 🆓🤖
 - 👋 Fact: I love to search and learn new informations 🚀</h3>
 </p>
