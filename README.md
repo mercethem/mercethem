@@ -52,5 +52,3 @@
 [intellij]: https://www.jetbrains.com/idea/
 [linux]: https://www.linux.org/
 [vstudio]: https://visualstudio.microsoft.com/
-
---------------------------------------------------------------------------------------------------------------------------------------------------
