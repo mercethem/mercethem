@@ -1,5 +1,5 @@
 <h1 align="center">  👋 Hi, I'm Ethem MERÇ </h1>
-<h4 align="center" > I'm a Student at Software Engineering and i have started codding in November 2022👨‍🎓 </h2>
+<h4 align="center" > I'm a candidate Software Engineer, my "hello world" has been igniting since 2022 November 👨‍🎓 </h2>
 
 ## ⏲ What am i doing now:
 - 🔭 I’m currently learning Algorithms, Data Structures, Communications Protocols, C, C++, Linux, Git, Clean Code 👩‍💻
