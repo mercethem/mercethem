@@ -2,9 +2,8 @@
 <h4 align="center" > I'm a candidate Software Engineer, my "hello world" has been igniting since 2022 November 👨‍🎓 </h2>
 
 ## ⏲ What am i doing now:
-- 🔭 I’m currently learning Algorithms, Data Structures, Communications Protocols, C, C++, Linux, Git, Clean Code 👩‍💻
-- 🌎 2024 Goals : Learning to algorithms, developing C++, const correctness, improve problem solving ability, 
-  developing and using tools 🆓🤖
+- 🔭 I’m currently learning  C, C++, Linux, Git, Algorithms, Algorithm Analysis, Data Structures, Communications Protocols, Clean Code, OOP, SOLID principles, Software Architecture and RF Technology 👩‍💻
+- 🌎 2025 Goals : Learning to algorithms and analysis, software architectures, developing C++, const correctness, improve problem solving ability, docker, using tools 🆓🤖
 - 👋 Fact: I love to search and learn new informations 🚀</h3>
 </p>
 
