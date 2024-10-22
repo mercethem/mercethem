@@ -30,6 +30,7 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vstudio]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Multiplexing_diagram.svg" />][sdr]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" />][trello]
+[<img align="left" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
 
 <br />
 </a>
@@ -56,4 +57,5 @@
 [vstudio]: https://visualstudio.microsoft.com/
 [sdr]: https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr
 [trello]: https://trello.com/
+[docker]: https://www.docker.com/
 
