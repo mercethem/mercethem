@@ -25,9 +25,13 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />][mysql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />][ubuntu]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][intellij]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" />][clion]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vstudio]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Multiplexing_diagram.svg" />][sdr]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" />][trello]
+
 <br />
 </a>
 
@@ -49,4 +53,8 @@
 [mysql]: https://www.mysql.com/
 [intellij]: https://www.jetbrains.com/idea/
 [linux]: https://www.linux.org/
+[ubuntu]: https://ubuntu.com/
 [vstudio]: https://visualstudio.microsoft.com/
+[sdr]: https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr
+[trello]: https://trello.com/
+
