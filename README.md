@@ -20,8 +20,11 @@
 
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />][C]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][C++]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />][C#]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" />][redis]
+[<img align="left" height="45" width="45" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" />][mongodb]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />][ubuntu]
@@ -48,9 +51,13 @@
 [clion]: https://www.jetbrains.com/clion/
 [C]: https://en.cppreference.com/w/
 [C++]: https://en.cppreference.com/w/
+[C#]: [https://en.cppreference.com/w/](https://www.w3schools.com/cs/index.php)
 [git]: https://git-scm.com/
 [mssql]: https://www.microsoft.com/tr-tr/sql-server/sql-server-2019
 [postgresql]: https://www.postgresql.org/
+[redis]: https://redis.io/
+[mongodb]: https://www.mongodb.com/
+[neo4j]: https://neo4j.com/
 [intellij]: https://www.jetbrains.com/idea/
 [linux]: https://www.linux.org/
 [ubuntu]: https://ubuntu.com/
