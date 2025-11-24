@@ -20,6 +20,7 @@
 
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />][C]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][C++]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][Bash]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />][C#]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
@@ -65,4 +66,6 @@
 [sdr]: https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr
 [trello]: https://trello.com/
 [docker]: https://www.docker.com/
+[bash]: https://tiswww.case.edu/php/chet/bash/bashtop.html/
+
 
