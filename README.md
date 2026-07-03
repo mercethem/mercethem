@@ -24,7 +24,7 @@
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />][C#]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />][mssql]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgresql]
-[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" />][redis]
+[<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo-redis_%28old%29.svg" />][redis]
 [<img align="left" height="45" width="45" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" />][mongodb]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
