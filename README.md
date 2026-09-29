@@ -2,8 +2,8 @@
 <h4 align="center">I'm a Software Engineer(New Grad), my "hello world" has been running since November 2022 👨‍🎓</h4>
 
 ## ⏲ What I'm Doing Now:
-- 🔭 I'm currently upgrading my skills in C, C++, Linux, and Network Protocols 👩‍💻
-- 🌎 2026 Goals: Learning YOCTO, Embedded Systems, and High-Frequency Data Transfer 🆓🤖
+- 🔭 I'm currently upgrading my skills in C, C++, FreeRTOS, EmbeddedLinux, Zephyr-OS, Linux, and Network Protocols 👩‍💻
+- 🌎 2026 Goals: Learning YOCTO, Embedded Systems, ARM Architecture, FSBL and High-Frequency Data Transfer 🆓🤖
 - 👋 Fact: I love to research and acquire new knowledge 🚀
 
 ---
@@ -23,7 +23,10 @@
   <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" height="45"/></a>
   <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="45" height="45"/></a>
   <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="45" height="45"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="45" height="45"/></a>
+  <a href="https://www.freertos.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="FreeRTOS" width="45" height="45"/></a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg" alt="STM32" width="45" height="45"/></a>
+  <a href="https://www.nxp.com/products/processors-and-microcontrollers/s32-automotive-platform/s32k-general-purpose-mcus:S32K" target="_blank"><img src="https://cdn.simpleicons.org/nxp/FFFFFF?viewbox=auto" alt="NXP S32K" width="45" height="45"/></a>
+  <a href="https://www.qt.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="45" height="45"/></a>
   <a href="https://www.microsoft.com/sql-server"><img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" width="45" height="45"/></a>
   <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="45" height="45"/></a>
   <a href="https://redis.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo-redis_%28old%29.svg" alt="Redis" width="45" height="45"/></a>
