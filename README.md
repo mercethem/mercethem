@@ -9,13 +9,13 @@
           <circle cx="27" cy="7" r="6" fill="#ffbd2e"/>
           <circle cx="47" cy="7" r="6" fill="#27c93f"/>
         </svg>
-        <b style="color: #ffffff; font-family: monospace; font-size: 14px; margin-left: 20px;"> root@merc-hft-server : /sys/firmware</b>
+        <b style="color: #ffffff; font-family: monospace; font-size: 14px; margin-left: 20px;"> root@mrc-src-server : /sys/firmware</b>
       </td>
     </tr>
     <tr bgcolor="#0d1117">
       <td align="left" style="padding: 15px;">
         <!-- AŞAĞI DOĞRU AKAN KARMAŞIK HEX & LINUX KOMUTLARI -->
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=800&color=00FF00&center=false&vCenter=false&multiline=true&width=800&height=340&lines=root@merc-hft-server:~%23+dmesg+%7C+grep+-i+arm;%5B++++0.000000%5D+Booting+Linux+on+physical+CPU+0x0000000000;root@merc-hft-server:~%23+hexdump+-C+/dev/mem+%7C+head+-n+4;0x0000++7f+45+4c+46+02+01+01+00++%7C.ELF....%7C;0x0010++02+00+3e+00+01+00+00+00++%7C..%3E.....%7C;0x0020++c0+00+00+00+00+00+00+00++%7C........%7C;root@merc-hft-server:~%23+insmod+/lib/modules/hft_engine.ko;%5B+HFT_CORE+%5D+Initializing+Zero-copy+network+stack...+OK;%5B+HFT_CORE+%5D+Allocating+DMA+rings...+0x4000_0000;root@merc-hft-server:~%23+./deploy_algo+--latency=ultra-low;%5B+%2B+%5D+Connecting+to+exchange+gateway...+ESTABLISHED+(0.8us);%5B+%2B+%5D+Matching+engine+synchronized...;root@merc-hft-server:~%23+tail+-f+/var/log/zephyr_rtos.log;***+Zephyr+OS+build+v3.4.0+***;Thread+'HighPrio'+started.+Stack:+0x20001400;root@merc-hft-server:~%23+_" alt="Terminal Simulation" />
+       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=800&color=00FF00&center=false&vCenter=false&multiline=true&width=800&height=560&lines=root@merc-hft:~%23+ll+/dev/vfio/;crw-rw----+1+root+root+242,+0+Sep+29+20:47+32;root@merc-hft:~%23+hexdumpp+-C+/dev/vfio/32;bash:+hexdumpp:+command+not+found;root@merc-hft:~%23+hexdump+-C+/dev/vfio/32+%7C+head+-n+2;0x000000++7f+45+4c+46+02+01+01+00++%7C.ELF....%7C;root@merc-hft:~%23+./int_dpdk.sh+--hugepages=1024;bash:+./int_dpdk.sh:+No+such+file+or+directory;root@merc-hft:~%23+./init_dpdk.sh+--hugepages=1024;EAL:+PCI+0000:04:00.0+bound+to+vfio-pci+(16+lcores);root@merc-hft:~%23+minicom+-D+/dev/ttyUSB0+-b+11520;minicom:+cannot+open+/dev/ttyUSB0:+Invalid+baud+rate;root@merc-hft:~%23+minicom+-D+/dev/ttyUSB0+-b+115200;***+Booting+Zephyr+OS+build+v3.6.0+***;%5B00:00:00.012,000%5D+%3Cinf%3E+fpga_sync:+PLL+locked.;%5B00:00:00.015,000%5D+%3Cdbg%3E+dma_hex:+0xDEADBEEF;root@merc-hft:~%23+ping+-c+1+192.168.1.100;64+bytes+from+192.168.1.100:+time=0.014+ms;root@merc-hft:~%23+taskset+-c+2-4+./algo_engine+--knerel;algo_engine:+unrecognized+option+'--knerel';root@merc-hft:~%23+taskset+-c+2-4+./algo_engine+--kernel-bypass;%5BINFO%5D+Direct+NIC+access+(ExaNIC)+initialized.;%5BINFO%5D+FIX+Session+Logon+SUCCESS.+RTT:+740ns.;%5BWAIT%5D+Awaiting+market+data+multicast+feed..._" alt="Terminal Simulation" />
       </td>
     </tr>
   </table>
