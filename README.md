@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ethem MERÇ</h1>
-<h4 align="center">I'm a candidate Software Engineer, my "hello world" has been running since November 2022 👨‍🎓</h4>
+<h4 align="center">I'm a Software Engineer(New Grad), my "hello world" has been running since November 2022 👨‍🎓</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mercethem&style=plastic" alt="Profile Views" />
@@ -47,7 +47,6 @@
 
 ---
 
-### 📊 3D Contribution Graph:
 <p align="center">
   <img src="https://raw.githubusercontent.com/mercethem/mercethem/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib" />
 </p>
