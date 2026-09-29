@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ethem MERÇ</h1>
 <h4 align="center">I'm a Software Engineer(New Grad), my "hello world" has been running since November 2022 👨‍🎓</h4>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mercethem&style=plastic" alt="Profile Views" />
-</p>
-
 ## ⏲ What I'm Doing Now:
 - 🔭 I'm currently upgrading my skills in C, C++, Linux, and Network Protocols 👩‍💻
 - 🌎 2026 Goals: Learning YOCTO, Embedded Systems, and High-Frequency Data Transfer 🆓🤖
